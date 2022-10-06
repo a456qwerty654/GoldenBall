@@ -1,0 +1,15 @@
+C:\Users\Aaron Sayers\Desktop\code_projects\OOP\week7\task4\GoldenBall\bin\Debug\netcoreapp6.0\GoldenBall.exe
+C:\Users\Aaron Sayers\Desktop\code_projects\OOP\week7\task4\GoldenBall\bin\Debug\netcoreapp6.0\GoldenBall.deps.json
+C:\Users\Aaron Sayers\Desktop\code_projects\OOP\week7\task4\GoldenBall\bin\Debug\netcoreapp6.0\GoldenBall.runtimeconfig.json
+C:\Users\Aaron Sayers\Desktop\code_projects\OOP\week7\task4\GoldenBall\bin\Debug\netcoreapp6.0\GoldenBall.dll
+C:\Users\Aaron Sayers\Desktop\code_projects\OOP\week7\task4\GoldenBall\bin\Debug\netcoreapp6.0\GoldenBall.pdb
+C:\Users\Aaron Sayers\Desktop\code_projects\OOP\week7\task4\GoldenBall\obj\Debug\netcoreapp6.0\GoldenBall.csproj.AssemblyReference.cache
+C:\Users\Aaron Sayers\Desktop\code_projects\OOP\week7\task4\GoldenBall\obj\Debug\netcoreapp6.0\GoldenBall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron Sayers\Desktop\code_projects\OOP\week7\task4\GoldenBall\obj\Debug\netcoreapp6.0\GoldenBall.AssemblyInfoInputs.cache
+C:\Users\Aaron Sayers\Desktop\code_projects\OOP\week7\task4\GoldenBall\obj\Debug\netcoreapp6.0\GoldenBall.AssemblyInfo.cs
+C:\Users\Aaron Sayers\Desktop\code_projects\OOP\week7\task4\GoldenBall\obj\Debug\netcoreapp6.0\GoldenBall.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Sayers\Desktop\code_projects\OOP\week7\task4\GoldenBall\obj\Debug\netcoreapp6.0\GoldenBall.dll
+C:\Users\Aaron Sayers\Desktop\code_projects\OOP\week7\task4\GoldenBall\obj\Debug\netcoreapp6.0\refint\GoldenBall.dll
+C:\Users\Aaron Sayers\Desktop\code_projects\OOP\week7\task4\GoldenBall\obj\Debug\netcoreapp6.0\GoldenBall.pdb
+C:\Users\Aaron Sayers\Desktop\code_projects\OOP\week7\task4\GoldenBall\obj\Debug\netcoreapp6.0\GoldenBall.genruntimeconfig.cache
+C:\Users\Aaron Sayers\Desktop\code_projects\OOP\week7\task4\GoldenBall\obj\Debug\netcoreapp6.0\ref\GoldenBall.dll
